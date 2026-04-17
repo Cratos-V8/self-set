@@ -1,1 +1,1 @@
-
+vless://0e8f29b2-d9b4-4963-a9cc-4295c43747e1@193.233.161.89:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=sso.kinopoisk.ru&fp=chrome&pbk=fGwhr9Fu4ESm8uBmRWOmro3WT1--2qScDL3MkkWozGo&sid=4ad63d8cf0810175&spx=%2F#9lm0qgap
